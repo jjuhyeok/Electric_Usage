@@ -1,3 +1,0 @@
-Best Params: {'n_estimators': 4975, 'max_depth': 12, 'min_child_weight': 12, 'gamma': 1, 'learning_rate': 0.02, 'colsample_bytree': 0.8318133720722162, 'lambda': 0.001002787275153801, 'alpha': 2.5034574805009857, 'subsample': 1.0}, 
-Best Values: 3.0576614103430333
-
